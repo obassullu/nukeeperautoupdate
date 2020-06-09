@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj": {}
+    "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj": {}
   },
   "projects": {
-    "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj": {
+    "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj",
+        "projectUniqueName": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj",
         "projectName": "NukeeperAuto",
-        "projectPath": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj",
+        "projectPath": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj",
         "packagesPath": "C:\\Users\\obassullu\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\obj\\",
+        "outputPath": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -46,7 +46,7 @@
           "dependencies": {
             "Volo.Abp.Core": {
               "target": "Package",
-              "version": "[2.7.0, )"
+              "version": "[2.9.0, )"
             }
           },
           "imports": [

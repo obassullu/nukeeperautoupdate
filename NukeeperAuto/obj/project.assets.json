@@ -694,7 +694,7 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "Volo.Abp.Core/2.7.0": {
+      "Volo.Abp.Core/2.9.0": {
         "type": "package",
         "dependencies": {
           "ConfigureAwait.Fody": "3.3.1",
@@ -2785,23 +2785,23 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Volo.Abp.Core/2.7.0": {
-      "sha512": "OED8ZvnA7Kd+h1hv2D+G8wDnicuNRBbNxFQHLJ0YUrv5YOfO5BYLzj0bzwTeGJU/gssnU1uBfgEPAfzk7VpT0A==",
+    "Volo.Abp.Core/2.9.0": {
+      "sha512": "2kQu3KJLYIltIlFo1ndNsGtnGFcq//yVmDsofOLFV4bXk3hsT8Q2vz6y61QqdJmbzNOuT7sfozH6menElB6uSQ==",
       "type": "package",
-      "path": "volo.abp.core/2.7.0",
+      "path": "volo.abp.core/2.9.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Volo.Abp.Core.dll",
         "lib/netstandard2.0/Volo.Abp.Core.pdb",
-        "volo.abp.core.2.7.0.nupkg.sha512",
+        "volo.abp.core.2.9.0.nupkg.sha512",
         "volo.abp.core.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Volo.Abp.Core >= 2.7.0"
+      "Volo.Abp.Core >= 2.9.0"
     ]
   },
   "packageFolders": {
@@ -2812,11 +2812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj",
+      "projectUniqueName": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj",
       "projectName": "NukeeperAuto",
-      "projectPath": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\NukeeperAuto.csproj",
+      "projectPath": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\NukeeperAuto.csproj",
       "packagesPath": "C:\\Users\\obassullu\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\sharp\\Bsll\\nukeeperautoupdate\\NukeeperAuto\\obj\\",
+      "outputPath": "C:\\Users\\obassullu\\AppData\\Local\\Temp\\NuKeeper\\repo-54b976a9f6814f0f933cceb5dfe01921\\NukeeperAuto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -2851,7 +2851,7 @@
         "dependencies": {
           "Volo.Abp.Core": {
             "target": "Package",
-            "version": "[2.7.0, )"
+            "version": "[2.9.0, )"
           }
         },
         "imports": [
